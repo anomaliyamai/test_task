@@ -2,5 +2,5 @@ projectKey=max
 serverUrl=http://localhost:9000
 serverVersion=10.4.0.87286
 dashboardUrl=http://localhost:9000/dashboard?id=max
-ceTaskId=967b5ffd-e3e2-4b49-b2ab-c2941516521e
-ceTaskUrl=http://localhost:9000/api/ce/task?id=967b5ffd-e3e2-4b49-b2ab-c2941516521e
+ceTaskId=9f249d4f-68bc-46a2-b981-85e7c6d909fc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=9f249d4f-68bc-46a2-b981-85e7c6d909fc
